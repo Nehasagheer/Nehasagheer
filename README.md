@@ -1,5 +1,5 @@
 ![logo](https://github.com/Nehasagheer/nehasagheer/blob/main/Neha%20Github%20Banner.png)
-<h1 align="center">Hi 👋, I'm Neha Sagheer</h1>
+<h1 align="center">About Me</h1>
 <h3 align="center">A passionate AI Futurist</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611dvu5km8yb1hpd5sgxz4n8206t7jfkjzrqdrm8e5g&ep=v1_gifs_search&rid=giphy.gif&ct=g">

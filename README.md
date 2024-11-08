@@ -1,4 +1,4 @@
-![logo](https://github.com/Nehasagheer/nehasagheer/blob/main/Neha%20git%20Banner.png)
+
 <h1 align="center">About Me</h1>
 <h3 align="center">A passionate AI Futurist</h3>
 
